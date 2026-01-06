@@ -51,7 +51,7 @@ and lifecycle security best practices**.
 
 ## 🏗️ High-Level Architecture
 
-[Image](/network-diagram.png)
+![Image](/network-diagram.png)
 
 
 All access was performed through **secure, encrypted tunnels**.  
